@@ -19,7 +19,7 @@ register-page-form (folder)
 
 ## Project-link
 
-[https://it-company-bootstrap.netlify.app](https://malice-snake-game.netlify.app)
+https://malice-snake-game.netlify.app
 
 ### At the end of the project, following topics are to be covered;
 - HTML
