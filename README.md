@@ -13,7 +13,9 @@ register-page-form (folder)
 ```
 ## Project-gif
 
-![it-company-bootstrap](https://user-images.githubusercontent.com/101462384/230403480-8ec28bc0-d6a7-451d-9b99-59b37a2649bb.gif)
+![snake-game](https://user-images.githubusercontent.com/101462384/230424419-72d3475a-1978-44da-9dc5-2e3d50281ba3.gif)
+![snake-game-2](https://user-images.githubusercontent.com/101462384/230424494-84b603ae-847a-47a3-8f43-209c7732e904.gif)
+
 
 ## Project-link
 
